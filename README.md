@@ -9,7 +9,7 @@ Also create my own personal study notes for future interview
 
 # **Interview Prepare**
 * **Programming Language**
-	* Language General Questions
+	* [Language General Questions](https://github.com/TTXD19/droid-the-pain-and-the-goodies/blob/main/Programming_Language/Language_Quesiton.md)
 	* Kotlin
 		* What is data class and the benefits of using it
 		* 
