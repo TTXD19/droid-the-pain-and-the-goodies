@@ -8,6 +8,7 @@ Also create my own personal study notes for future interview
 
 
 # **Interview Prepare**
+* **System**
 * **Programming Language**
 	* [Language General Questions](https://github.com/TTXD19/droid-the-pain-and-the-goodies/blob/main/Programming_Language/Language_Quesiton.md)
 	* Kotlin
@@ -27,4 +28,8 @@ Also create my own personal study notes for future interview
 * **Data**
 * **Unit Testing**
 * **Instrument Testing**
+
+
+# **Work Problems and Solution**
+
 
