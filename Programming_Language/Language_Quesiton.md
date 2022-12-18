@@ -42,6 +42,14 @@ public class Person {
 }
 ```
 
+``` kotlin
+// Kotlin Way
+data class(
+    val name: String,
+    val age: Int;
+)
+```
+
 Type conversions: Kotlin has a more powerful type conversion system than Java. It has built-in support for implicit and explicit type conversions, as well as support for operator overloading.
 
 Interoperability: Kotlin is designed to be fully interoperable with Java, which means that you can use Kotlin code in a Java project and vice versa. This can make it easier to migrate an existing Java codebase to Kotlin or to use a mix of both languages in the same project.
