@@ -13,6 +13,12 @@
 
 	* **Data classes:** Kotlin has a feature called data classes, which allows you to define a class that holds data without having to write any additional code. This can be a convenient way to create simple classes that are used to store and pass data around in your code.
 
+	```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 	``` java
 	// Java Way
 	public class Person {
@@ -41,7 +47,7 @@
         this.age = age
     }
 }
-	```
+```
 	
 	``` kt
 	// Kotlin Way
@@ -49,7 +55,7 @@
     val name: String,
     val age: Int;
 )
-	```
+```
 
 	* **Type conversions:** Kotlin has a more powerful type conversion system than Java. It has built-in support for implicit and explicit type conversions, as well as support for operator overloading.
 
