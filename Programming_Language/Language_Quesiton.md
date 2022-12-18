@@ -17,29 +17,29 @@
 	// Java Way
 	public class Person {
     
-    private String name;
-    private int age;
+    	private String name;
+    	private int age;
 
-    public Person(String name, int age) {
-        this.name = name;
-        this.age = age;
-    }
+    	public Person(String name, int age) {
+        	this.name = name;
+        	this.age = age;
+    	}
 
-    public String getName() {
-        return name;
-    }
+    	public String getName() {
+	        return name;
+   		 }
 
-    public int getAge() {
-        return age;
-    }
+	    public int getAge() {
+	        return age;
+	    }
 
-    public void setName(String name) {
-        this.name = name
-    }
+	    public void setName(String name) {
+	        this.name = name
+	    }
 
-    public int getAge(String age) {
-        this.age = age
-    }
+    	public int getAge(String age) {
+        	this.age = age
+    	}
 	}
 	```
 	* **Type conversions:** Kotlin has a more powerful type conversion system than Java. It has built-in support for implicit and explicit type conversions, as well as support for operator overloading.
