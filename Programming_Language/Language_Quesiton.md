@@ -43,7 +43,7 @@
 }
 	```
 	
-	``` kotlin
+	``` kt
 	// Kotlin Way
 	data class(
     val name: String,
