@@ -9,8 +9,10 @@ Also create my own personal study notes for future interview
 
 # **Interview Prepare**
 * **Programming Language**
-	* What are biggest difference between these two?
+	* Language General Questions
 	* Kotlin
+		* What is data class and the benefits of using it
+		* 
 	* Java
 * **Project stuff**
 	* What is gradle?
