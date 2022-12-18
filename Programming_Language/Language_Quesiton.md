@@ -18,32 +18,12 @@
 public class Person {   
     private String name;
     private int age;
+}
+```
 
-    public Person(String name, int age) {
-        this.name = name;
-        this.age = age;
-    }
+Type conversions: Kotlin has a more powerful type conversion system than Java. It has built-in support for implicit and explicit type conversions, as well as support for operator overloading.
 
-    	public String getName() {
-	        return name;
-   		 }
-
-	    public int getAge() {
-	        return age;
-	    }
-
-	    public void setName(String name) {
-	        this.name = name
-	    }
-
-    	public int getAge(String age) {
-        	this.age = age
-    	}
-	}
-	```
-	* **Type conversions:** Kotlin has a more powerful type conversion system than Java. It has built-in support for implicit and explicit type conversions, as well as support for operator overloading.
-
-	* **Interoperability**: Kotlin is designed to be fully interoperable with Java, which means that you can use Kotlin code in a Java project and vice versa. This can make it easier to migrate an existing Java codebase to Kotlin or to use a mix of both languages in the same project.
+Interoperability: Kotlin is designed to be fully interoperable with Java, which means that you can use Kotlin code in a Java project and vice versa. This can make it easier to migrate an existing Java codebase to Kotlin or to use a mix of both languages in the same project.
 	
 
 
