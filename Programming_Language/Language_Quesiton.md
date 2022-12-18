@@ -44,7 +44,7 @@ public class Person {
 
 ``` kotlin
 // Kotlin Way
-data class(
+data class Person(
     val name: String,
     val age: Int;
 )
