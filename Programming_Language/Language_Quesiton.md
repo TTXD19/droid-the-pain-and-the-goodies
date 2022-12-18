@@ -13,17 +13,16 @@
 
 	* **Data classes:** Kotlin has a feature called data classes, which allows you to define a class that holds data without having to write any additional code. This can be a convenient way to create simple classes that are used to store and pass data around in your code.
 
-	``` java
-	// Java Way
-	public class Person {
-    
-    	private String name;
-    	private int age;
+``` java
+// Java Way
+public class Person {   
+    private String name;
+    private int age;
 
-    	public Person(String name, int age) {
-        	this.name = name;
-        	this.age = age;
-    	}
+    public Person(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
 
     	public String getName() {
 	        return name;
