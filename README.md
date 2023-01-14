@@ -14,8 +14,14 @@ Also create my own personal study notes for future interview
 	* Kotlin
 		* What is data class and the benefits of using it
 		* lateinit var vs lazy
-		* 
+		* inline function
 	* Java
+	* Solid Principle
+		*  The Single Responsibility Principle
+		*  The Open-Closed Principle
+		*  The Liskov Substitution Principle
+		*  The Interface Segregation Principle
+		*  The Dependency Inversion Principle
 * **Project stuff**
 	* What is gradle?
 	* What is Android Manifest
@@ -25,13 +31,36 @@ Also create my own personal study notes for future interview
 	* MVI (Model-View-Intent)
 	* MVVM (Model-View-ViewModel)
 	* MVP (Model-View-Presenter)
-	* Clean Code Architecture
+	* Clean Code Architecture.
+* **Netowrk**
+	* Retrofit
+	* Okhttp
 * **Design Pattern**
+	* Adapter
+	* Singleton
+	* Factory
+	* Builder
+	* Oberver
+	* Dependency Injection
 * **UI**
+	* Layout
+	* Recyclerview
+	* Style
 * **Data**
+	* Room Database
+* **Resources**
+	* Mutilple languages support
+	* png vs webP
+	* Relation between Pixel and DP
+	* Font
 * **Unit Testing**
+	* What is Unit Testing
+	* Mockito
+	* MockWebServer
 * **Instrument Testing**
-
+	* What is Instrument Testing
+	* Espresso
+	* MockWebServer
 
 # **Work Blogs**
 
